@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasmin Fernandez Castillo  
+- 👋 Hi, I’m Jasmin Fernandez Castillo. My name is pronounced "Hazz-Mean". My pronouns are they, them, theirs.  
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to better code in R, Python and SQL.
 - 💞️ I’m looking to collaborate on any project I deem interesting. 
