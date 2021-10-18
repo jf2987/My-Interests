@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to better code in R, Python and SQL.
 - 💞️ I’m looking to collaborate on any project I deem interesting. 
-- 📫 How to reach me cogpsyc13@gmail.com.
+- 📫 How to reach me jf2987@csus.edu
 
 <!---
 jf2987/jf2987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
